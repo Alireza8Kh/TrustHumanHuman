@@ -1,0 +1,18 @@
+Lone: L
+
+Coupled 2-Sided High Stiffness: C_2S_KH
+
+Coupled 2-Sided Low Stiffness: C_2S_KL
+
+Coupled 1-Sided Visible to S1 High Stiffness: C_1S_1_KH
+
+Coupled 1-Sided Visible to S1 Low Stiffness: C_1S_1_KL
+
+Coupled 1-Sided Visible to S2 High Stiffness: C_1S_2_KH
+
+Coupled 1-Sided Visible to S2 Low Stiffness: C_1S_2_KL
+
+
+
+
+
