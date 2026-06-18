@@ -2,6 +2,10 @@
 
 A Unity-based dyadic motor experiment investigating human-human trust during a haptically-coupled tracking task, using two **HRX-1** haptic robotic devices.
 
+## Related Repository
+
+**Data processing:** [Trust-sharing-data-analysis](https://github.com/Alireza8Kh/Trust-sharing-data-analysis) — processes the robot state and EMG data collected by this experiment.
+
 ## Overview
 
 Two participants each control an HRX-1 robot to track a descending trajectory. Depending on the experimental block, the two robots may be coupled through a **virtual spring**, so that each participant feels the partner's movements through haptic force feedback.
